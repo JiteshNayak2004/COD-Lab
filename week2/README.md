@@ -1,7 +1,7 @@
 # Week 2 - Assignment
 
 - Upload the three assembly programs written last lab class, in `.s` format. The problem statements are as follows:
-	1. Write an Assembly Program for the following C code:
+	1. Write an assembly Program for the following C code:
 ```c
 main() {
 	unsigned short int a[11] = {0x1234, 0x5678, ...}, h;
